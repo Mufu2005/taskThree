@@ -1,4 +1,9 @@
+Mufaddal Bhaiji
+2380238
+6-D
+
 # Adaptive IoT Dashboard - Flutter UI Lab
+
 
 A responsive Flutter application that demonstrates how to build adaptive layouts capable of scaling seamlessly between portrait (mobile) and landscape (tablet/desktop) orientations. 
 
